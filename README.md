@@ -25,11 +25,11 @@ If you arrived here searching for production bugs, cloud bill surprises, databas
 
 ---
 
-## 📚 Master Playbook Knowledge Base (91 Canonical Technical Assets)
+## 📚 Master Playbook Knowledge Base (92 Canonical Technical Assets)
 
-All 91 playbooks in this repository are authored from 24+ years of real-world emergency triage in hyper-scale SaaS, logistics, banking, and AI infrastructure.
+All 92 playbooks in this repository are authored from 24+ years of real-world emergency triage in hyper-scale SaaS, logistics, banking, and AI infrastructure.
 
-### Section 1: In-Depth Architectural & Forensic Articles (31 Deep Dives)
+### Section 1: In-Depth Architectural & Forensic Articles (32 Deep Dives)
 
 | # | Title | Canonical Deep Dive |
 | :--- | :--- | :--- |
@@ -64,6 +64,7 @@ All 91 playbooks in this repository are authored from 24+ years of real-world em
 | 29 | [When the Cloud Becomes the Single Point of Failure](articles/when-cloud-becomes-single-point-failure-dr-shashwat-bishwen-ezehc.md) | [shashwat.si/articles/when-cloud-becomes-single-point-failure-dr-shashwat-bishwen-ezehc/](https://shashwat.si/articles/when-cloud-becomes-single-point-failure-dr-shashwat-bishwen-ezehc/) |
 | 30 | [When "Green Dashboards" Lie: The LASCAD Failure and the Modern Interpretation Gap](articles/when-green-dashboards-lie-lascad-failure-modern-gap-bishwen-lmv8c.md) | [shashwat.si/articles/when-green-dashboards-lie-lascad-failure-modern-gap-bishwen-lmv8c/](https://shashwat.si/articles/when-green-dashboards-lie-lascad-failure-modern-gap-bishwen-lmv8c/) |
 | 31 | [Why the Most Powerful Piece in the Room is Usually the Most Fragile](articles/why-most-powerful-piece-room-usually-fragile-dr-shashwat-bishwen-bqedc.md) | [shashwat.si/articles/why-most-powerful-piece-room-usually-fragile-dr-shashwat-bishwen-bqedc/](https://shashwat.si/articles/why-most-powerful-piece-room-usually-fragile-dr-shashwat-bishwen-bqedc/) |
+| 32 | [The Leadership Skill Nobody Puts on a CV](articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c.md) | [shashwat.si/articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c/](https://shashwat.si/articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c/) |
 
 ### Section 2: Real-World Case Studies & Production Triage (17 Documents)
 
