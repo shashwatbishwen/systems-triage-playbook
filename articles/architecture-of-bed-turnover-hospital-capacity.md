@@ -41,6 +41,10 @@ The beds are there. The doctors are there. The patients are there. All that is m
 
 This essay is paired with **BedTurn**, a free interactive simulator that quantifies a hospital's own unrecovered bed-day revenue loss and recoverable virtual bed capacity: [shashwat.si/tools/bedturn/](https://shashwat.si/tools/bedturn/)
 
+## Related Case Study
+
+[Collapsing Inpatient Discharge Latency in a 420-Bed Tertiary Hospital](https://shashwat.si/case-studies/collapsing-inpatient-discharge-latency-in-a-420-bed-hospital/), the real engagement this architecture is drawn from: a 5.8-hour discharge lag reduced to 112 minutes across 14 surgical specialties.
+
 ## Frequently Asked Architectural Questions (FAQs)
 
 ### Q: Why do discharge delays cause emergency department diversion?
