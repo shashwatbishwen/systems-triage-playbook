@@ -25,11 +25,11 @@ If you arrived here searching for production bugs, cloud bill surprises, databas
 
 ---
 
-## 📚 Master Playbook Knowledge Base (94 Canonical Technical Assets)
+## 📚 Master Playbook Knowledge Base (95 Canonical Technical Assets)
 
 All 94 playbooks in this repository are authored from 24+ years of real-world emergency triage in hyper-scale SaaS, logistics, banking, and AI infrastructure.
 
-### Section 1: In-Depth Architectural & Forensic Articles (34 Deep Dives)
+### Section 1: In-Depth Architectural & Forensic Articles (35 Deep Dives)
 
 | # | Title | Canonical Deep Dive |
 | :--- | :--- | :--- |
@@ -67,6 +67,7 @@ All 94 playbooks in this repository are authored from 24+ years of real-world em
 | 32 | [The Leadership Skill Nobody Puts on a CV](articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c.md) | [shashwat.si/articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c/](https://shashwat.si/articles/leadership-skill-nobody-puts-on-cv-dr-shashwat-bishwen-vqr5c/) |
 | 33 | [The Architecture of Bed Turnover: Why Hospital Capacity Collapses at the Billing Desk, Not the ICU](articles/architecture-of-bed-turnover-hospital-capacity.md) | [shashwat.si/articles/architecture-of-bed-turnover-hospital-capacity/](https://shashwat.si/articles/architecture-of-bed-turnover-hospital-capacity/) |
 | 34 | [The Psychology of Certainty: Why Intelligent Leaders Make Poor Decisions](articles/psychology-of-certainty-why-intelligent-leaders-make-poor-decisions.md) | [shashwat.si/articles/psychology-of-certainty-why-intelligent-leaders-make-poor-decisions/](https://shashwat.si/articles/psychology-of-certainty-why-intelligent-leaders-make-poor-decisions/) |
+| 35 | [The Growth Illusion: Why Businesses Are Solving the Wrong Problem](articles/growth-illusion-why-businesses-solving-wrong-problem.md) | [shashwat.si/articles/growth-illusion-why-businesses-solving-wrong-problem/](https://shashwat.si/articles/growth-illusion-why-businesses-solving-wrong-problem/) |
 
 ### Section 2: Real-World Case Studies & Production Triage (17 Documents)
 
